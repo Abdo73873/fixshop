@@ -13,9 +13,7 @@ class addmobile extends StatelessWidget {
     var MycustomernameController = TextEditingController();
     var MyFixissueController = TextEditingController();
     var MycustomerNumberController = TextEditingController();
-    var MyFixissueController = TextEditingController();
 
-    var myTimeController = TextEditingController();
     var myDateController = TextEditingController();
 
     return SafeArea(
@@ -24,7 +22,7 @@ class addmobile extends StatelessWidget {
         appBar: AppBar(
             backgroundColor: background,
             title: Text(
-              'اضافه جهاز',
+              'اضافه جهاز اضافه جهاز اضافه جهاز',
             ),
             centerTitle: true),
         body: Directionality(
